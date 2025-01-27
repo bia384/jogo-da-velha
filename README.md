@@ -1,6 +1,4 @@
-# myapp
-
-A new Flutter project.
+Programa criado para atividade  de desenvolvimento web(jogo da velha)
 
 ## Getting Started
 
